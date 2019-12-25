@@ -1,2 +1,2 @@
-# database-learningNote
+## 关于mySQL的一些基础笔记
 - 此笔记来源为哔哩哔哩用户
